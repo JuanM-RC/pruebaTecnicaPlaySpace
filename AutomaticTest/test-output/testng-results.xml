@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T20:52:39 CEST" name="Default suite" finished-at="2023-06-15T20:52:54 CEST" duration-ms="15117">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T20:52:39 CEST" name="Default test" finished-at="2023-06-15T20:52:54 CEST" duration-ms="15117">
+      <class name="automaticTest.Login">
+        <test-method is-config="true" signature="configureSelenium()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:39 CEST" name="configureSelenium" finished-at="2023-06-15T20:52:45 CEST" duration-ms="5650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureSelenium -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:45 CEST" name="loginSetup" finished-at="2023-06-15T20:52:45 CEST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:45 CEST" name="setup" finished-at="2023-06-15T20:52:45 CEST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidCredentials()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:45 CEST" name="loginWithInvalidCredentials" finished-at="2023-06-15T20:52:49 CEST" duration-ms="4074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:49 CEST" name="cleanup" finished-at="2023-06-15T20:52:49 CEST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:49 CEST" name="setup" finished-at="2023-06-15T20:52:50 CEST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidMail()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:50 CEST" name="loginWithValidMail" finished-at="2023-06-15T20:52:52 CEST" duration-ms="2205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidMail -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:52 CEST" name="cleanup" finished-at="2023-06-15T20:52:52 CEST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:52 CEST" name="setup" finished-at="2023-06-15T20:52:53 CEST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidUsername()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:53 CEST" name="loginWithValidUsername" finished-at="2023-06-15T20:52:54 CEST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUsername -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:54 CEST" name="cleanup" finished-at="2023-06-15T20:52:54 CEST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automaticTest.Login@22555ebf]" started-at="2023-06-15T20:52:54 CEST" name="teardown" finished-at="2023-06-15T20:52:54 CEST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automaticTest.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
