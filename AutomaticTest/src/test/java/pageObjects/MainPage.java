@@ -10,7 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class MainPage {
 	
-	private WebDriver driver;
+    private WebDriver driver;
 
     public MainPage(WebDriver driver) {
         this.driver = driver;
@@ -107,17 +107,17 @@ public class MainPage {
     	return letsPlayModal;
     }
     
-	public WebElement getRegisterModal() {
-	    return registerModal;
-	}
+    public WebElement getRegisterModal() {
+        return registerModal;
+    }
 
-	public WebElement getUserAccessModal() {
-	    return userAccessModal;
-	}
+    public WebElement getUserAccessModal() {
+        return userAccessModal;
+    }
 
-	public WebElement getForgotPasswordModal() {
-	    return forgotPasswordModal;
-	}
+    public WebElement getForgotPasswordModal() {
+        return forgotPasswordModal;
+    }
 
     public WebElement getPlayWithEmailButton() {
         return playWithEmailButton;
