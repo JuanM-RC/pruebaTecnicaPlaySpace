@@ -1,16 +1,11 @@
 package automaticTest;
 
-
-
 import java.io.IOException;
 import java.util.List;
-
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
-
 import pageObjects.MainPage;
 import testData.EmailAndPassword;
 import testData.TestDataReader;
